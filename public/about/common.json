@@ -1,0 +1,270 @@
+{
+  "award": {
+    "title": "Every Company Has A Worthwhile Origin Story To Share, Here Is Our Success Story.",
+    "text": "Nam sed neque turpis. Nulla pretium elit libero, a laoreet turpis eleifend eu. In pellentesque lacus vitae urna finibus facilisis at ac nibh. Morbi id eleifend urna. Praesent eget leo a odio molestie faucibus. Nullam maximus, nisi ac porttitor bibendum, mi lectus faucibus magna, et porta orci leo ac metus.",
+    "btntext": "read more",
+    "btnlink": "/",
+    "awards": [
+      {
+        "img": "/",
+        "title": "Printer of the Year 2023",
+        "subtitle": "NFT Printer Association"
+      },
+      {
+        "img": "/",
+        "title": "Printer of the Year 2023",
+        "subtitle": "NFT Printer Association"
+      },
+      {
+        "img": "/",
+        "title": "Printer of the Year 2023",
+        "subtitle": "NFT Printer Association"
+      }
+    ]
+  },
+
+  "faq": {
+    "img": "/assets/images/faq-image-min.jpg",
+    "title": "Download The App in Store",
+    "text": "Nam sit amet elit sollicitudin, blandit nisi a, tincidunt nunc. Donec id lorem posuere velit tempor accumsan non a nisl",
+    "playstorelink": "/",
+    "appstorelink": "/",
+    "QA": [
+      {
+        "question": "What installation is required in order to use the ?",
+        "answer": "Phasellus dapibus tempus sem, ac dictum enim luctus sed. Nunc scelerisque a turpis mattis finibus. Etiam cursus id enim non euismod. Phasellus id faucibus ipsum, quis gravida ligula. Pellentesque ut neque non nisi ultrices sollicitudin. Proin sit amet dictum lacus."
+      },
+      {
+        "question": "What installation is required in order to use the ?",
+        "answer": "Phasellus dapibus tempus sem, ac dictum enim luctus sed. Nunc scelerisque a turpis mattis finibus. Etiam cursus id enim non euismod. Phasellus id faucibus ipsum, quis gravida ligula. Pellentesque ut neque non nisi ultrices sollicitudin. Proin sit amet dictum lacus."
+      },
+      {
+        "question": "What installation is required in order to use the ?",
+        "answer": "Phasellus dapibus tempus sem, ac dictum enim luctus sed. Nunc scelerisque a turpis mattis finibus. Etiam cursus id enim non euismod. Phasellus id faucibus ipsum, quis gravida ligula. Pellentesque ut neque non nisi ultrices sollicitudin. Proin sit amet dictum lacus."
+      },
+     
+      {
+        "question": "What installation is required in order to use the ?",
+        "answer": "Phasellus dapibus tempus sem, ac dictum enim luctus sed. Nunc scelerisque a turpis mattis finibus. Etiam cursus id enim non euismod. Phasellus id faucibus ipsum, quis gravida ligula. Pellentesque ut neque non nisi ultrices sollicitudin. Proin sit amet dictum lacus."
+      },
+      {
+        "question": "What installation is required in order to use the ?",
+        "answer": "Phasellus dapibus tempus sem, ac dictum enim luctus sed. Nunc scelerisque a turpis mattis finibus. Etiam cursus id enim non euismod. Phasellus id faucibus ipsum, quis gravida ligula. Pellentesque ut neque non nisi ultrices sollicitudin. Proin sit amet dictum lacus."
+      },
+      {
+        "question": "What installation is required in order to use the ?",
+        "answer": "Phasellus dapibus tempus sem, ac dictum enim luctus sed. Nunc scelerisque a turpis mattis finibus. Etiam cursus id enim non euismod. Phasellus id faucibus ipsum, quis gravida ligula. Pellentesque ut neque non nisi ultrices sollicitudin. Proin sit amet dictum lacus."
+      },
+      {
+        "question": "What installation is required in order to use the ?",
+        "answer": "Phasellus dapibus tempus sem, ac dictum enim luctus sed. Nunc scelerisque a turpis mattis finibus. Etiam cursus id enim non euismod. Phasellus id faucibus ipsum, quis gravida ligula. Pellentesque ut neque non nisi ultrices sollicitudin. Proin sit amet dictum lacus."
+      }
+    ],
+    "title2": "Still have questions?",
+    "text2": "Can't find the answer you're looking for? Please chat to our friendly team.",
+    "btntext": "get in touch",
+    "btnlink": "/"
+  },
+  "team": {
+    "title": "Our Printing Experts",
+    "text": "Donec adipiscing tristique risus nec. Dapibus ultrices in iaculis nunc sed. Quam viverra orci sagittis eu. Eleifend donec pretium vulputate sapien nec sagittis.",
+    "team": [
+      {
+        "img": "/assets/images/Team-1.jpg",
+        "link":"/",
+        "name": "Cesarino Basilio",
+        "position": "CEO",
+        "twitterlink": "/",
+        "linkedinlink": "/",
+        "facebooklink": "/"
+      },
+      {
+        "img": "/assets/images/Team-1.jpg",
+        "link":"/",
+        "name": "Cesarino Basilio",
+        "position": "CEO",
+        "twitterlink": "/",
+        "linkedinlink": "/",
+        "facebooklink": "/"
+      },
+      {
+        "img": "/assets/images/Team-1.jpg",
+        "link":"/",
+        "name": "Cesarino Basilio",
+        "position": "CEO",
+        "twitterlink": "/",
+        "linkedinlink": "/",
+        "facebooklink": "/"
+      },
+      {
+        "img": "/assets/images/Team-1.jpg",
+        "link":"/",
+        "name": "Cesarino Basilio",
+        "position": "CEO",
+        "twitterlink": "/",
+        "linkedinlink": "/",
+        "facebooklink": "/"
+      }
+    ]
+  },
+  "enquiry": {
+    "mailtext": "24/7 Contact Support    ",
+    "img":"/assets/images/Contact-form-image.jpg",
+    "mail": "info@example.com",
+    "subtext":"Eaecenas eu vehicula felis Aen ean elementum torto lacinia, at tincidunt erat elementum",
+    "text": "Contact Us If You Need A Custom Design Without Delay!"
+
+  },
+  "brand": {
+    "title":"Our clients",
+    "bodytext":"Trusted By 200+ Amazing Companies Worldwide",
+    "Brands":[
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          },
+          {
+                "img":"/assets/wp-content/uploads/2023/09/client-alt-6.jpg"
+                
+          }
+    ],
+   "imgs":[
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"},
+    { "img":"/assets/images/instagram-bg-05-768x768.jpg",
+   "imglink":"/"}
+  ]
+  }
+}

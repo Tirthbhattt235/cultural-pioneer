@@ -1,0 +1,55 @@
+{
+  "title": "Develop Your Brand",
+  "bodytext": "Tellus in hac habitasse platea dictumst vestibulum. Facilisi cras fermentum odio eu feugiat. Sit amet venenatis urna cursus eget. Libero volutpat sed cras ornare arcu dui. Pellentesque adipiscing commodo elit at imperdiet dui accumsan.",
+
+  "BtnLink": "/",
+  "BtnText": "Get IN Touch",
+  "lin1": "    Email us At Anytime",
+  "email": "infor@gmail.com",
+  "lin2": "    Call us At Anytime",
+  "contact": "+00 123 456789",
+  "services": [
+    {
+      "title": "logo print",
+      "pg": "Phasellus ornare scelerisque eleifend donec pretium nec.",
+      "img": "/",
+      "link":"/"
+    },
+    {
+      "title": "logo print",
+      "pg": "Phasellus ornare scelerisque eleifend donec pretium nec.",
+      "img": "/",
+      "link":"/"
+    },
+    {
+      "title": "logo print",
+      "pg": "Phasellus ornare scelerisque eleifend donec pretium nec.",
+      "img": "/",
+      "link":"/"
+    },
+    {
+      "title": "logo print",
+      "pg": "Phasellus ornare scelerisque eleifend donec pretium nec.",
+      "img": "/",
+      "link":"/"
+    },
+    {
+      "title": "logo print",
+      "pg": "Phasellus ornare scelerisque eleifend donec pretium nec.",
+      "img": "/",
+      "link":"/"
+    },
+    {
+      "title": "logo print",
+      "pg": "Phasellus ornare scelerisque eleifend donec pretium nec.",
+      "img": "/",
+      "link":"/"
+    }
+  ],
+  "bnimg": [
+    { "img": "/assets/images/Home-2-Slider-T-shirts.png" },
+    { "img": "/assets/images/Home-2-Slider-T-shirts.png" },
+    { "img": "/assets/images/Home-2-Slider-T-shirts.png" },
+    { "img": "/assets/images/Home-2-Slider-T-shirts.png" }
+  ]
+}

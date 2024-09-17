@@ -1,0 +1,64 @@
+{
+      "title":"Limited Time Deals",
+      "bodytext":"Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Felis bibendum ut tristique et egestas quis ipsum suspendisse ultrices. Est lorem ipsum dolor sit amet consectetur adipis.",
+      "time":"time left",
+      "product":[
+            {
+                  "name":"printed bottle cap",
+                  "price":6,
+                  "img":"/assets/images/shop-6.jpg",
+                  "link":"/"
+                  
+            },
+            {
+                  "name":"printed bottle cap",
+                  "price":6,
+                  "img":"/assets/images/shop-6.jpg",
+                  "link":"/"
+                  
+            },
+            {
+                  "name":"printed bottle cap",
+                  "price":6,
+                  "img":"/assets/images/shop-6.jpg",
+                  "link":"/"
+                  
+            },
+            {
+                  "name":"printed bottle cap",
+                  "price":6,
+                  "img":"/assets/images/shop-6.jpg",
+                  "link":"/"
+                  
+            },
+            {
+                  "name":"printed bottle cap",
+                  "price":6,
+                  "img":"/assets/images/shop-6.jpg",
+                  "link":"/"
+                  
+            },
+            {
+                  "name":"printed bottle cap",
+                  "price":6,
+                  "img":"/assets/images/shop-6.jpg",
+                  "link":"/"
+                  
+            },
+            {
+                  "name":"printed bottle cap",
+                  "price":6,
+                  "img":"/assets/images/shop-6.jpg",
+                  "link":"/"
+                  
+            },
+            {
+                  "name":"printed bottle cap",
+                  "price":6,
+                  "img":"/assets/images/shop-6.jpg",
+                  "link":"/"
+                  
+            }
+      ]
+     
+}

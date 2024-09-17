@@ -1,0 +1,93 @@
+{
+  "imgpath": "/assets/images/Home-3-Slider-1-Tshirt.gif",
+  "Slider": [
+    {
+      "id": 0,
+      "title": "INCREASE BRAND RECOGNIZATION",
+      "subtitle": "Designed Team Clothing",
+      "Bodytext": "A scelerisque purus semper eget duis at tellus at. In est ante in nibh mauris cursus mattis molestie a.",
+      "qualities": [
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        }
+      ],
+      "BtnLink": "/",
+      "BtnText": "read more"
+    },
+    {
+      "id": 1,
+      "title": "INCREASE BRAND RECOGNIZATION",
+      "subtitle": "Designed Team Clothing",
+      "Bodytext": "A scelerisque purus semper eget duis at tellus at. In est ante in nibh mauris cursus mattis molestie a.",
+      "qualities": [
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        }
+      ],
+      "BtnLink": "/",
+      "BtnText": "read more"
+    },
+    {
+      "id": 3,
+      "title": "INCREASE BRAND RECOGNIZATION",
+      "subtitle": "Designed Team Clothing",
+      "Bodytext": "A scelerisque purus semper eget duis at tellus at. In est ante in nibh mauris cursus mattis molestie a.",
+      "qualities": [
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        }
+      ],
+      "BtnLink": "/",
+      "BtnText": "read more"
+    },
+    {
+      "id": 4,
+      "title": "INCREASE BRAND RECOGNIZATION",
+      "subtitle": "Designed Team Clothing",
+      "Bodytext": "A scelerisque purus semper eget duis at tellus at. In est ante in nibh mauris cursus mattis molestie a.",
+      "qualities": [
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        },
+        {
+          "service": "Premium cloths using the latest technology"
+        }
+      ],
+      "BtnLink": "/",
+      "BtnText": "read more"
+    }
+  ]
+}

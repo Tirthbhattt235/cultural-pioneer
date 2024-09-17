@@ -1,0 +1,109 @@
+{
+  "productDetails": {
+    "product": "Printed Bottle Cap",
+    "review": 4.3,
+    "minP": 1.5,
+    "maxP": 4,
+    "bodytext": "Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Mi proin sed libero enim. Sagittis id consectetur purus. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Mi proin sed libero enim. Sagittis id consectetur purus",
+    "materials": [
+      {
+        "id": 0,
+        "title": "kid",
+        "availClr": [
+          { "red": {"clrtext":"red", "qty": 1, "price": 1.45 } },
+          { "green": {"clrtext":"green", "qty": 0, "price": 1.45 } },
+          { "gray": {"clrtext":"black", "qty": 5, "price": 1.45 } }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "women",
+        "availClr": [
+          { "red": {"clrtext":"red", "qty": 0, "price": 1.45 } },
+          { "green": {"clrtext":"green", "qty": 4, "price": 1.45 } },
+          { "gray": {"clrtext":"black", "qty": 5, "price": 1.45 } }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "men",
+        "availClr": [
+          { "red": {"clrtext":"red", "qty": 1, "price": 1.45 } },
+          { "green": {"clrtext":"green", "qty": 4, "price": 1.45 } },
+          { "gray": {"clrtext":"black", "qty": 0, "price": 1.45 } }
+        ]
+      }
+    ],
+    "btnlink": "/",
+    "btntext": "add to cart",
+    "btnlink2": "/",
+    "btntext2": "Add to Wishlist",
+    "btnlink3": "/",
+    "btntext3": "buy now",
+    "tag": { "name": "Tag", "value": "Packaging" },
+    "category": { "name": "category", "value": "Cap" },
+    "dimansion": { "name": "Dimensions", "value": "12 × 10 × 8 cm" }
+  },
+
+  "gallary": [
+    { "img": "/assets/images/wp-content/uploads/2023/10/shop-2.2.jpg" },
+    {
+      "img": "/assets/images/wp-content/uploads/2023/10/shop-2.1-1-768x768.jpg"
+    },
+    { "img": "/assets/images/wp-content/uploads/2023/10/shop-2.3.jpg" },
+    { "img": "/assets/images/wp-content/uploads/2023/10/shop-2.jpg" }
+  ],
+  "description": {
+    "title": "Description ",
+    "bodytext": "Orci ac auctor augue mauris augue. Enim eu turpis egestas pretium aenean pharetra magna. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Risus quis varius quam quisque id diam vel quam elementum. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Vulputate enim nulla aliquet porttitor lacus.",
+    "list": [
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" },
+      { "service": "Vulputate enim amet mattis nulla aliq" }
+    ]
+  },
+  "information": {
+    "title": "Additional Information",
+    "imgs": [
+      {
+        "img": "/assets/images/wp-content/uploads/2023/10/service-slider-image-2-1-1000x764.jpg"
+      },
+      {
+        "img": "/assets/images/wp-content/uploads/2023/10/services-slider-image-10-1-1000x764.jpg"
+      },
+      {
+        "img": "/assets/images/wp-content/uploads/2023/10/services-slider-image-10-1-1000x764.jpg"
+      },
+      {
+        "img": "/assets/images/wp-content/uploads/2023/10/service-slider-image-2-1-1000x764.jpg"
+      },
+      {
+        "img": "/assets/images/wp-content/uploads/2023/10/service-slider-image-2-1-1000x764.jpg"
+      }
+    ],
+    "text": "Mus mauris vitae ultricies leo integer malesuada nunc vel. Ac felis donec et ec dui nunc matti odio pellentesque. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Aenean euismod elementum ipsum a arcu nisi quis eleifend quam adipiscing."
+  },
+  "feedbackform": {
+    "review": [
+      {
+        "img": "/assets/images/wp-content/uploads/2023/08/customer-image-08-100x100.jpg",
+        "date": 1709097191,
+        "name": "joh dev",
+        "text": "Feugiat pretium nibh ipsum consequat nisl vel. Morbi tristique senectus et netus et. Pretium lectus quam id leo in vitae. Nam libero justo laoreet sit. Morbi tempus iaculis urna id volutpat lacus laoreet. Cursus eget nunc scelerisque viverra mauris in aliquam sem fringilla. Magna fermentum iaculis eu non diam phasellus vestibulum. Erat velit scelerisque in dictum non.",
+        "ratings": 4
+      }
+    ],
+    "title": "Add a review",
+    "text": {"line":"Your email address will not be published.","line1":" Required fields are marked"},
+    "title1": "Your rating",
+    "condition":"Save my name, email, and website in this browser for the next time I comment."
+  }
+}
+

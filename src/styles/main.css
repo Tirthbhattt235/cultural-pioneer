@@ -1,0 +1,257 @@
+.side-nav {
+  overflow-y: scroll;
+  width: -webkit-fill-available;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  position: fixed;
+  z-index: 1000;
+}
+.side-nav li {
+  line-height: 43px !important;
+  /* align-items: center; */
+  /* margin-bottom: 3px !important; */
+}
+.side-nav .sidespan {
+  font-family: "FontAwesome";
+  content: \f105;
+  font-size: 24px;
+  height: 42px;
+  line-height: 42px;
+  right: 12px;
+  text-align: center;
+}
+.side-nav .sidespan:before {
+  font-family: "FontAwesome";
+  /* content: \f105; */
+  font-size: 24px;
+  height: 42px;
+  line-height: 42px;
+  right: 12px;
+  text-align: center;
+}
+.side-nav .sidespan:after {
+  opacity: 1;
+  visibility: visible;
+  right: 12px;
+}
+.side-nav .struct-submenu {
+  /* width: 95vw; */
+  background-color: white;
+  max-width: 1599px;
+  /* width: 95vw; */
+  /* left:50%;  */
+  /* transform:translateX(-50%); centered first regardless of width */
+  /* display: flex; */
+  /* flex-direction: column; */
+  justify-content: center;
+  /* left: auto; */
+  position: absolute;
+  top: 0%;
+  /* padding: 10px; */
+  border-radius: 10px;
+  /* width:100vw;
+
+           left:auto; */
+  z-index: 100;
+  box-shadow: 0 0 8px 3px rgba(255, 94, 98, 0.3);
+  /* .has-submenu:hover +  .simple-submenu{
+
+           display:block;
+      }  */
+}
+.side-nav .struct-submenu img {
+  filter: brightness(50%);
+}
+.side-nav .struct-submenu .servicewrapper {
+  /* padding-left: 30px; */
+  top: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.side-nav .struct-submenu .servicewrapper .serviceitem {
+  height: 200px;
+  width: 220px;
+  position: relative;
+  /* margin-right: 30px; */
+  border-radius: 10px;
+}
+.side-nav .struct-submenu .servicewrapper .serviceitem img {
+  position: relative;
+  border-radius: 10px;
+}
+.side-nav .struct-submenu .servicewrapper .serviceitem .link-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+.side-nav .struct-submenu .servicewrapper .serviceitem .link-wrapper i {
+  display: flex;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  font-size: 20px;
+}
+.side-nav .struct-submenu .servicewrapper .serviceitem .link-wrapper a {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  height: -moz-fit-content;
+  height: fit-content;
+  top: 65%;
+  padding: 12px 24px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  text-transform: uppercase;
+  color: #ff5e62;
+  font-size: 14px;
+  letter-spacing: 1.3px;
+  font-weight: 600;
+  /* justify-content: center; */
+}
+.side-nav .struct-submenu .servicewrapper .serviceitem .link-wrapper a:hover {
+  background-color: black;
+  color: white !important;
+}
+.side-nav .struct-submenu .service2wrapper {
+  width: 290px !important;
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem {
+  height: 200px;
+  width: 220px;
+  position: relative;
+  /* margin-right: 30px; */
+  border-radius: 10px;
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem img {
+  position: relative !important;
+  border-radius: 10px;
+  min-height: 200px;
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem .textwrapper {
+  padding: 0px 10px;
+  width: 100%;
+  position: absolute;
+  top: 13px;
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem .textwrapper h4 {
+  color: white;
+  line-height: 1;
+  font-weight: 500;
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem .textwrapper span {
+  color: white;
+  text-transform: uppercase;
+  line-height: normal !important;
+  font-weight: 400;
+  display: flex;
+}
+@media screen and (max-width: 767px) {
+  .side-nav .struct-submenu .service2wrapper .serviceitem .textwrapper {
+    width: 100%;
+    padding: 0px 20px;
+  }
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem .link-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 10px;
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem .link-wrapper a {
+  position: absolute;
+  height: -moz-fit-content;
+  height: fit-content;
+  padding: 0.8em 1.75em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  color: #ff5e62;
+  font-size: 14px;
+  /* justify-content: center; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem .link-wrapper a i {
+  font-size: 20px;
+}
+.side-nav .struct-submenu .service2wrapper .serviceitem .link-wrapper a:hover {
+  background-color: black;
+  color: white !important;
+}
+.side-nav .left-space-back {
+  /* width: 20%; */
+  background-color: black;
+  opacity: 0.3;
+  /* position: ; */
+  /* width: -webkit-fill-available; */
+  height: -webkit-fill-available;
+}
+.side-nav .right {
+  background-color: white;
+  width: 290px;
+  height: 100%;
+}
+.side-nav li:not(:last-child) {
+  border-bottom: 1px solid;
+  border-color: rgba(var(--wdtHeadAltColorRgb), 0.06);
+  /* border-width: 1px 0 0; */
+}
+.side-nav li {
+  /* padding: 1rem !important; */
+}
+.side-nav li:hover {
+  background-color: #ff5e62;
+  color: white;
+}
+.side-nav .sub-side-nav {
+  /* right:20px; */
+  /* overflow: hidden; */
+  /* padding:10px !important; */
+  background-color: white;
+  color: black;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  /* width:; */
+  width: 100%;
+  width: 290px;
+  margin-left: -1rem !important;
+  /* li:hover{
+            svg{
+                  color:black !important;
+                  fill: inherit !important;
+            }
+      }
+      li:active{
+            svg{
+                  color:black !important;
+
+            }
+      } */
+}
+.side-nav .sub-side-nav .sub-side-header {
+  background-color: rgba(var(--wdtHeadAltColorRgb), 0.05) !important;
+  border-style: solid;
+  border-width: 1px 0 1px 0;
+  border-color: rgba(var(--wdtHeadAltColorRgb), 0.06);
+  /* color: inherit !important */
+}
+.side-nav .sub-side-nav .sub-side-header a {
+  color: black;
+}
+.side-nav .h50 {
+  height: 30px !important;
+  width: 30px !important;
+}/*# sourceMappingURL=main.css.map */

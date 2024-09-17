@@ -1,0 +1,34 @@
+{
+      "text":"In hendrerit gravida rutrum quisque non tellus orci ac. Felis bibendum ut tristique et egestas quis. Purus semper eget duis at tellus at urna condimentum. Amet venenatis urna cursus eget nunc scelerisque viverra mauris in.",
+      "contacttext":"24/7 Customer care",
+      "contact":"237841829479",
+      "emailtext":"Need Live Support",
+      "email":"crayon@gmail.com",
+      "paymenttext":"Our Payment Mehods",
+      "quicklinksFtrtitle":"Quick Links",
+      "quickLinks":[    
+                  {"link":"/","linktext":"home"},
+                  {"link":"/","linktext":"home"},
+                  {"link":"/","linktext":"home"},
+                  {"link":"/","linktext":"home"},
+                  {"link":"/","linktext":"home"},
+                  {"link":"/","linktext":"home"}
+
+      ],
+      "ServiceFtrtitle":"service",
+      "services":[
+            {"link":"/","linktext":"home"},
+            {"link":"/","linktext":"home"},
+            {"link":"/","linktext":"home"},
+            {"link":"/","linktext":"home"},
+            {"link":"/","linktext":"home"},
+            {"link":"/","linktext":"home"}
+      ],
+      "Ftr4":{"title":"Download printme","text":"Get exclusive offers, 24/7 Tech Support & feel advantage with printme App",
+"title2":"Follow us"},
+"socials":{"InstaLink":"/","LNlink":"/","twitterLink":"/","YTlink":"/"},
+"copyright":"   Copyright © 2023 Wedesigntech. All rights reserved"
+      
+
+
+}

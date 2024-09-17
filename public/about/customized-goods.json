@@ -1,0 +1,68 @@
+{
+      "title":"Quality Customized Goods For Own Use And To Market Them Online",
+      "Category1":{
+            "head":"Selling Online",
+            "subtitle":"CORPORATE GIFTS",
+            "title":"Eye-Catching Customization",
+            "pg":"In ullamcorper blandit porta. Aenean venenatis leo. Vivamus imperdiet vel nisl ac lobortis. Praesent ex diam, sollicitudin in sapien nec, hendrerit rutrum odio. Maecenas aliquam lobortis orci, et pellentesque massa blandit pulvinar.",
+            "services":[
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."},
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."},
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."},
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."},
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."}
+            ],
+            "imgs":[{
+                  "img":"/assets/images/about-page-image-01.jpg"
+            },{
+                  "img":"/assets/images/about-page-image-02.jpg"
+            },{
+                  "img":"/assets/images/about-page-image-03.jpg"
+            },{
+                  "img":"/assets/images/about-page-image-04.jpg"
+            }],
+            "btnlink":"/",
+            "btntext":"Get in TOuch"
+
+
+      },
+      "Category2":{
+            "head":"Ordering for myself",
+            "subtitle":"CORPORATE GIFTS",
+            "title":"Ideal Customized Gifts",
+            "pg":"In ullamcorper blandit porta. Aenean venenatis leo. Vivamus imperdiet vel nisl ac lobortis. Praesent ex diam, sollicitudin in sapien nec, hendrerit rutrum odio. Maecenas aliquam lobortis orci, et pellentesque massa blandit pulvinar.",
+            "services":[
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."},
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."},
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."},
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."},
+                  {"title":"Embraided & Printed T-Shirts",
+                  "text":"Cursus metus aliquam eleifend mi in nulla posuere sollicitudi elis eget nunc."}
+            ],
+            "imgs":[{
+                  "img":"/assets/images/about-page-image-01.jpg"
+            },{
+                  "img":"/assets/images/about-page-image-02.jpg"
+            },{
+                  "img":"/assets/images/about-page-image-03.jpg"
+            },{
+                  "img":"/assets/images/about-page-image-04.jpg"
+            }],
+            "btnlink":"/",
+            "btntext":"Get in TOuch"
+
+
+      },
+      "address":"72 St. Merch Street, LA,California.",
+      "mail":"info@example.com",
+      "number":"000 123 45678"
+}

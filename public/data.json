@@ -1,0 +1,17 @@
+{
+  "title":"Our Projects",
+  "text":"Kras et magna magna. Morbi at faucibus nunc. Vivamus rhoncus placerat rhoncus.",
+  "btntxt":"Explore More",
+  "btnlink":"/",
+  "projects":[
+    {"id": 1, "name": "product 1","title":"bootle cap","head1":"colorfull print","head2":"bottol cap printing"},
+    {"id": 2, "name": "product 2","title":"phone cover","head1":"colorfull print","head2":"phonr cover printing"},
+    {"id": 3, "name": "product 3","title":"tshirt","head1":"colorfull print","head2":"t-shirt printing"}
+    ,{"id": 4, "name": "product 1","title":"bootle cap","head1":"colorfull print","head2":"bottol cap printing"},
+    {"id": 5, "name": "product 2","title":"phone cover","head1":"colorfull print","head2":"phonr cover printing"},
+    {"id": 3, "name": "product 3","title":"tshirt","head1":"colorfull print","head2":"t-shirt printing"}
+
+  ]
+}
+         
+

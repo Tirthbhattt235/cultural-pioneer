@@ -1,0 +1,13 @@
+
+
+{
+"title":"Our Services","pg":"Laculis at erat pellentesque adipiscing commodo elit. At consectetur lorem donec massa. Gravida neque convallis a cras semper auctor ullamcorper malesuada proin libero nunc consequaters",
+"btnTitle":"Veiw ALl Service" ,"btnLink":"/"
+,"imgArr":[
+{"id":"1","imgPath":"/assets/images/wp-content/uploads/2023/10/home-3-service-1.jpg","linkText":"Stickers Printing","link":"/"},
+{"id":"2","imgPath":"/assets/images/wp-content/uploads/2023/10/home-3-service-2.jpg","linkText":"Stickers Printing","link":"/"},
+{"id":"3","imgPath":"/assets/images/wp-content/uploads/2023/10/home-3-service-3.jpg","linkText":"Stickers Printing","link":"/"},
+{"id":"4","imgPath":"/assets/images/wp-content/uploads/2023/10/home-3-service-4.jpg","linkText":"Stickers Printing","link":"/"},
+{"id":"5","imgPath":"/assets/images/wp-content/uploads/2023/10/home-3-service-5.jpg","linkText":"Stickers Printing","link":"/"}
+]    
+}

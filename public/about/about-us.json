@@ -1,0 +1,23 @@
+{
+  "title": "ABOUT US",
+  "text1": "Praesent eget viverra ipsum. Duis ultricies rhoncus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget nulla sagittis, congue nibh ut, imperdiet nibh. Duis metus odio, ullamcorper id dictum vitae, tincidunt a ante. Pellentesque ac sapien id nisl pulvinar mollis sed quis libero. Nam cursus orci ac eros maximus aliquam. In hac habitasse platea dictumst.",
+  "text2": "Praesent eget viverra ipsum. Duis ultricies rhoncus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras eget nulla sagittis, congue nibh ut, imperdiet nibh. Duis metus odio, ullamcorper id dictum vitae, tincidunt a ante. Pellentesque ac sapien id nisl pulvinar mollis sed quis libero. Nam cursus orci ac eros maximus aliquam. In hac habitasse platea dictumst.",
+  "btnlink":"/",
+  "btntext":"get in touch",
+  "img":"/assets/images/Home-01-1.png",
+  "expereince":"25+",
+  "expereincetxt":"of Experience in Printing Service",
+  "bannertext":"of Experience in Printing Services",
+  "lin1": "    Email us At Anytime",
+  "email": "infor@gmail.com",
+  "lin2": "    Call us At Anytime",
+  "contact": "+00 123 456789",
+  "title2":"Download Our Online Printing Mobile App Now",
+  "pg":"Fonec eleifend quis felis eget cursus. Duis diam ligula congue ac tortor nec, euismod.erat vitae libero.",
+  "btnlink2":"/",
+  "btntext2":"get in touch",
+  "ratings":5,
+  "ratingtext":"5 Rated App On Reviews",
+  "ios":{"title":"For ios","version":"iOS 15.6+","btnlink":"/","btntext":"DOWNLOAD APP","img":"/assets/images/qr-app-150x150.png"},
+  "android":{"title":"for ios","version":"iOS 15.6+","btnlink":"/","btntext":"DOWNLOAD APP","img":"/assets/images/qr-app-150x150.png"}
+}

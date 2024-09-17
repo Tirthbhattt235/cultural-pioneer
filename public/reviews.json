@@ -1,0 +1,31 @@
+{
+  "title": "Our Customer Words",
+  "bodytext": "Sit amet est placerat in egestas erat imperdiet sed. Tempor orci dapibus ultrices in iaculis nunc. Luctus accumsan tortor posuere ac ut consequat.",
+
+  "BtnLink": "/",
+  "BtnText": "Contact us",
+  "reviews": [
+    {
+      "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.",
+      "img": "/assets/images/home-three-testimonial-1-100x100.jpg",
+      "author": "Omar yesi",
+      "position": "Ceo",
+      "link":"/"
+    },
+    {
+      "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.",
+      "img": "/assets/images/home-three-testimonial-1-100x100.jpg",
+      "author": "Omar yesi",
+      "position": "Ceo",
+      "link":"/"
+    },
+    {
+      "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.",
+      "img": "/assets/images/home-three-testimonial-1-100x100.jpg",
+      "author": "Omar yesi",
+      "position": "Ceo",
+      "link":"/"
+    }
+
+  ]
+}

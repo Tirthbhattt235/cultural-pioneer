@@ -1,0 +1,35 @@
+     {
+            "title":"Fast & Relaible",
+            "bodytext":"Ferbi at faucibus nunc. Vivamus rhoncus placerat rhoncus. Cras et magna magna. Proin a erat commodo, pretium diam id, volutpat lacus. Vestibulum mattis rutrum mauris.",
+            "img" : "/assets/images/Home-3-Counter-Bg.jpg",
+            "BtnLink": "/",
+            "BtnText":"read more",
+            "Counter":[
+                  {
+                        "title":"customers",
+                        "number":100
+                        
+                  },
+                  {
+                        "title":"customers",
+                        "number":100
+                        
+                  },
+                  {
+                        "title":"customers",
+                        "number":100
+                        
+                  },
+                  {
+                        "title":"customers",
+                        "number":100
+                        
+                  },
+                  {
+                        "title":"customers",
+                        "number":100
+                        
+                  }
+            ]
+           
+      }

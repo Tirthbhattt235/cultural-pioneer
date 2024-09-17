@@ -1,0 +1,58 @@
+{
+     "contact":{ "title":"Printme Office Locations",
+      "text":"Viverra tellus in hac habitasse platea. Ac tincidunt vitae semper quis lectus. Auctor neque vitae tempus quam pellentesque nec quam adipiscing vitae proin.",
+      "bg":"/assets/images/wp-content/uploads/2023/08/hotspot-bg.png",
+      "records":[
+            {
+                  "img":"/assets/images/wp-content/uploads/2023/07/hotspot-image-1.png",
+                  "location":"USA",
+                  "places":"23 places"
+
+            },
+            {
+                  "img":"/assets/images/wp-content/uploads/2023/07/hotspot-image-1.png",
+                  "location":"USA",
+                  "places":"23 places"
+
+            },
+            {
+                  "img":"/assets/images/wp-content/uploads/2023/07/hotspot-image-1.png",
+                  "location":"USA",
+                  "places":"23 places"
+
+            },
+            {
+                  "img":"/assets/images/wp-content/uploads/2023/07/hotspot-image-1.png",
+                  "location":"USA",
+                  "places":"23 places"
+
+            }
+      ]},
+      "faq":{
+            "title":"Questions? We are here to help.",
+            "text":"Our Friendly team is always here to chat",
+            "faqs":[
+                  {
+                        "title":"chat",
+                        "description":"Amet facilisis magna etiam tempor. Fermentum leo vel orci porta non pulvinar neque laoreet.  ",
+                        "svg":""
+                  },
+                  {
+                        "title":"chat",
+                        "description":"Amet facilisis magna etiam tempor. Fermentum leo vel orci porta non pulvinar neque laoreet.  ",
+                        "svg":""
+                  },
+                  {
+                        "title":"chat",
+                        "description":"Amet facilisis magna etiam tempor. Fermentum leo vel orci porta non pulvinar neque laoreet.  ",
+                        "svg":""
+                  },
+                  {
+                        "title":"chat",
+                        "description":"Amet facilisis magna etiam tempor. Fermentum leo vel orci porta non pulvinar neque laoreet.  ",
+                        "svg":""
+                  }
+            ]
+      }
+
+}

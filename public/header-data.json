@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "hasChild": true,
+    "structMenu": false,
+    "submenuLink": [
+      { "id": "1", "title": "sub-1-1" },
+      { "id": "2", "title": "sub-1-2" },
+      { "id": "3", "title": "sub-1-3" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Home",
+    "hasChild": false,
+    "structMenu": false,
+    "submenuLink": [
+      { "id": "1", "title": "subhme-2-1" },
+      { "id": "2", "title": "subhme-2-2" },
+      { "id": "3", "title": "subhme-2-3" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Printme",
+    "hasChild": true,
+    "structMenu": true,
+    "submenuLink": {
+      "row1": [{ "btntext": "shop Now" }],
+      "row2": [
+        {
+          "head": "personalized-tshirt",
+          "text": "We deesign everyday cloths",
+          "btntext": "Shop Now"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Home",
+    "hasChild": true,
+    "structMenu": false,
+    "submenuLink": [
+      { "id": "1", "title": "subhome-4-1" },
+      { "id": "2", "title": "subhome-4-2" },
+      { "id": "3", "title": "subhome-4-3" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Home",
+    "hasChild": false,
+    "structMenu": false,
+    "submenuLink": [
+      { "id": "1", "title": "subhome-5-1" },
+      { "id": "2", "title": "subhome-5-2" },
+      { "id": "3", "title": "subhome-5-3" }
+    ]
+  }
+]

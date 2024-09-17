@@ -1,0 +1,37 @@
+{
+  "title": "Catchy High Definition Printing",
+  "bodytext": "Egestas maecenas pharetra convallis posuere morbi leo urna. Blandit massa enim nec dui. Ante metus dictum at tempor commodo. Feugiat nisl pretium fusce id. Diam in arcu cursus cras.",
+
+  "BtnLink": "/",
+  "BtnText": "read more",
+  "progressBar": [
+    {
+      "title": "Posters & Envelops",
+      "number": 80
+    },
+    {
+      "title": "Posters & Envelops",
+      "number": 80
+    },
+    {
+      "title": "Posters & Envelops",
+      "number": 80
+    }
+  ],
+  "imgpath": [
+    {
+      "img1": "/assets/images/Home-3-Cup-Before.png",
+      "img2": "/assets/images/Home-3-Cup-Before.png",
+      "link": "/",
+      "linktext": "before",
+      "linktext2": "after"
+    },
+    {
+      "img1": "/assets/images/Home-3-Cup-Before.png",
+      "img2": "/assets/images/Home-3-Cup-Before.png",
+      "link": "/",
+      "linktext": "after",
+      "linktext2": "before"
+    }
+  ]
+}
