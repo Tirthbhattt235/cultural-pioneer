@@ -1,7 +1,7 @@
 import Section, { Topline } from "./assets/footer.style";
 import Image from "next/image";
 import Img from "./assets/imgs/Footer-2-Mailchimp-bg.png";
-import Logo from "../../../../public/assets/wp-content/uploads/2023/08/Logo-dark.svg";
+import Logo from "../../../../public/assets/svgs/Light-Logo.svg";
 import PaymentMehod from "../../../../public/assets/wp-content/uploads/2023/08/payment.png";
 import Img2 from "../../../../public/assets/wp-content/uploads/2023/09/Footer-App-Img-2.png";
 import Img1 from "../../../../public/assets/wp-content/uploads/2023/09/Footer-App-Img-1.png";
@@ -79,7 +79,7 @@ function footer() {
               data.emalitext ||
               data.paymenttext ? (
                 <div className="width-40 lin-1">
-                  <Image alt="Image"   src={Logo}></Image>
+                  <Image alt="Image"  className="footer-logo"  src={Logo}></Image>
                   {data.text !== undefined || data.text ? (
                     <p className="mb-0">{data.text}</p>
                   ) : null}

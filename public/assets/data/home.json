@@ -1,0 +1,172 @@
+{
+    "dropdown": [
+        {
+            "id": 1,
+            "name": "ahmedabad",
+            "url": "/abd"
+        },
+        {
+            "id": 2,
+            "name": "bvn",
+            "url": "/bvn"
+        },
+        {
+            "id": 3,
+            "name": "rajkot",
+            "url": "/raj"
+        },
+        {
+            "id": 4,
+            "name": "junagdh",
+            "url": "/jun"
+        }
+    ],
+    "cities": [
+        {
+            "id": 1,
+            "name": "ahmedabad",
+            "url": "/abd",
+            "relatedPlaces": [
+                {
+                    "id": "a1"
+                },
+                {
+                    "id": "a2"
+                },
+                {
+                    "id": "a3"
+                },
+                {
+                    "id": "a4"
+                }
+            ],
+            "relatedFoods": [
+                {
+                    "id": "af1"
+                },
+                {
+                    "id": "af2"
+                },
+                {
+                    "id": "af3"
+                },
+                {
+                    "id": "af4"
+                }
+            ],
+            "relatedeVENTS": [
+                {
+                    "id": "af1"
+                },
+                {
+                    "id": "af2"
+                },
+                {
+                    "id": "af3"
+                },
+                {
+                    "id": "af4"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "bvn",
+            "url": "/bvn"
+        },
+        {
+            "id": 3,
+            "name": "rajkot",
+            "url": "/raj"
+        },
+        {
+            "id": 4,
+            "name": "junagdh",
+            "url": "/jun"
+        }
+    ],
+    "foods":[
+        {"id":"af1",
+        "name":"dhokla",
+        "date":"12/23/23",
+        "title":"abc",
+        "description":"lorem asdfnasfi asdfjdv asdnfd",
+        "slug":"/dhokla",
+        "image":"/assets/images/food/p1Small.jfif",
+        "details":{
+            "image":"/assets/images/food/p1Small.jfif",
+            "text":"asfjd adfndf dfiwbdv sdfjdv dfsjdsv adfjadbv ",
+            "reviews":[
+                {"revName":"tirth",
+            "reviews":"must try"}
+            ]
+        }
+    },
+        {"id":"af2",
+        "name":"dhokla-3",
+        "date":"12/23/23",
+        "title":"abc",
+        "description":"lorem asdfnasfi asdfjdv asdnfd",
+        "slug":"/dhokla",
+        "image":"/assets/images/food/p1Small.jfif",
+        "details":{
+            "image":"/assets/images/food/p1Small.jfif",
+            "text":"asfjd adfndf dfiwbdv sdfjdv dfsjdsv adfjadbv ",
+            "reviews":[
+                {"revName":"tirth",
+            "reviews":"must try"}
+            ]
+        }
+    },
+        {"id":"af4",
+        "name":"dhokla",
+        "date":"12/23/23",
+        "title":"abc",
+        "description":"lorem asdfnasfi asdfjdv asdnfd",
+        "slug":"/dhokla",
+        "image":"/assets/images/food/p1Small.jfif",
+        "details":{
+            "image":"/assets/images/food/p1Small.jfif",
+            "text":"asfjd adfndf dfiwbdv sdfjdv dfsjdsv adfjadbv ",
+            "reviews":[
+                {"revName":"tirth",
+            "reviews":"must try"}
+            ]
+        }
+    },
+        {"id":"af5",
+        "name":"dhokla",
+        "date":"12/23/23",
+        "title":"abc",
+        "description":"lorem asdfnasfi asdfjdv asdnfd",
+        "slug":"/dhokla",
+        "image":"/assets/images/food/p1Small.jfif",
+        "details":{
+            "image":"/assets/images/food/p1Small.jfif",
+            "text":"asfjd adfndf dfiwbdv sdfjdv dfsjdsv adfjadbv ",
+            "reviews":[
+                {"revName":"tirth",
+            "reviews":"must try"}
+            ]
+        }
+    },
+        {"id":"af6",
+        "name":"dhokla",
+        "date":"12/23/23",
+        "title":"abc",
+        "description":"lorem asdfnasfi asdfjdv asdnfd",
+        "slug":"/dhokla",
+        "image":"/assets/images/food/p1Small.jfif",
+        "details":{
+            "image":"/assets/images/food/p1Small.jfif",
+            "text":"asfjd adfndf dfiwbdv sdfjdv dfsjdsv adfjadbv ",
+            "reviews":[
+                {"revName":"tirth",
+            "reviews":"must try"}
+            ]
+        }
+    }
+    ],
+    "PLACES":{},
+    "EVENTS":{}
+}

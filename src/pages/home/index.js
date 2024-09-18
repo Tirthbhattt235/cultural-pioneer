@@ -15,23 +15,15 @@ import RecentBlogs from "../../components/home/recent-blogs"
 
 import Header from '@/components/common/header/header'
 import Footer from '@/components/common/footer/footer'
+import DropDown from "@/components/common/dropdownlist"
 
 function HomePage(){ 
  return(
       <>
             <Header/>
+            {/* <DropDown/> */}
             <HeroSection/>
-            <ThreeStepTut/>
-            <Counter/>
-            <Services/>
-            <Adbanner/>
-            <Section6/>
-            <Section7/>
             <Projects/>
-            <LimitedDeals/>
-            <Reviews/>
-            <BrandSection/>
-            <RecentBlogs/>
             <Footer/>
       </>
  );     

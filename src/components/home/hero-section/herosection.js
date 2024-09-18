@@ -96,34 +96,7 @@ function heroSection() {
                                       ) : null}
                                     </div>
                                   ) : null}
-                                  {item.qualities ?  <div className="services mb-20 mt-3">
-                                    <ul className="ps-0 mb-0 d-flex  justify-content-md-center justify-content-start flex-column   ">
-                                      {
-                                        item.qualities?.map((serviceIndex,keyindex)=>(
-                                          serviceIndex.service ?
-                                          <li key={keyindex} className="text-start text-sm-center text-md-start d-flex  align-items-center ">
-                                          <svg
-                                            width="16"
-                                            height="16"
-                                            viewBox="0 0 10.174999999999999 10"
-                                          >
-                                            <path
-                                              d="M3.5,6l6.2-5.9C9.8,0,10,0,10.1,0.1c0.1,0.1,0.1,0.2,0,0.3L3.8,9.9C3.7,10,3.5,10,3.4,10    c0,0-0.1-0.1-0.1-0.1L0,4.7C0,4.6,0,4.4,0.1,4.4c0.1-0.1,0.2-0.1,0.3,0L3.5,6z"
-                                              fill="#ff5e62"
-                                            />
-                                          </svg>
-                                          <span className="mt-0">
-                                           {serviceIndex.service}
-                                          </span>
-                                        </li>
-                                          :null
-                                          
-                                        ))
-                                      }
-                                     
-                                      
-                                    </ul>
-                                  </div> :null}
+                                  
                                  
                                  {item.BtnLink || item.BtnText ?
                                  <div className="link-wrapper "> 
