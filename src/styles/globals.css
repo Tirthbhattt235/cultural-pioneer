@@ -1107,3 +1107,7 @@ a {
   width: 150px;
   height: auto;
 }
+
+.br-30{
+  border-radius: 30px;
+}

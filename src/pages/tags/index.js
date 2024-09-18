@@ -71,7 +71,6 @@ export default function Search_result({title}) {
           </section>
         </Container>
         <SearchResult/>
-        <Ftrswiper />
         <Footer></Footer>
       </>
       {/* ) : null} */}

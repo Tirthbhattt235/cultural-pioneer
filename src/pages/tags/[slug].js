@@ -70,7 +70,6 @@ export default function Search_result({title}) {
           </section>
         </Container>
         <SearchResult LocalProp={"Tag-Items"}/>
-        <Ftrswiper />
         <Footer></Footer>
       </>
       {/* ) : null} */}

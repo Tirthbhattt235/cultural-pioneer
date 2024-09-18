@@ -2,7 +2,7 @@
   "blogs": [
     {
       "blogid": 1,
-      "slug": "/blog/Somnath-Temple-The-Spiritual-Landmark-of-Gujarat",
+      "slug": "/places/somnath",
       "blog_link": "/",
       "linktext": "readmore",
       "title": "Somnath Temple: The Spiritual Landmark of Gujarat",
@@ -14,8 +14,8 @@
       "author": "john Dave",
       "title2": "The significance of Somnath in Hindu mythology",
       "bodytext": "<div><p>Somnath Temple is one of the 12 Jyotirlingas of Lord Shiva and has immense religious significance. The temple has been rebuilt multiple times over centuries and stands as a symbol of resilience and devotion.</p><p>The temple is located on the western coast of Gujarat and offers breathtaking views of the Arabian Sea. Its architecture and history attract pilgrims and tourists alike.</p></div>",
-      "bannerImg": "https://images.unsplash.com/photo-1574226516831-e1dff4208034",
-      "subImg": "https://images.unsplash.com/photo-1600854077569-dcad5c5ef1d9",
+      "bannerImg": "/assets/images/somnath.png",
+      "subImg": "/assets/images/somnath.png",
       "list": [
         {
           "li": "One of the 12 Jyotirlingas of Lord Shiva"
@@ -33,13 +33,13 @@
       "sliderTitle": "The majesty and resilience of Somnath Temple",
       "imgs": [
         {
-          "img": "https://images.unsplash.com/photo-1600854077569-dcad5c5ef1d9"
+          "img": "/assets/images/somnath.png"
         },
         {
-          "img": "https://images.unsplash.com/photo-1574226516831-e1dff4208034"
+          "img": "/assets/images/somnath.png"
         },
         {
-          "img": "https://images.unsplash.com/photo-1568572933382-74d440642117"
+          "img": "/assets/images/somnath.png"
         }
       ],
       "Refrenced": [
@@ -56,7 +56,7 @@
       "reviews": {
         "review": [
           {
-            "img": "https://images.unsplash.com/photo-1600854077569-dcad5c5ef1d9",
+            "img": "/assets/images/somnath.png",
             "date": 1709097191,
             "name": "joh dev",
             "text": "An awe-inspiring visit to Somnath Temple. The energy and spiritual vibe here are unmatched. Highly recommend a visit for both the spiritual and historical significance."
@@ -74,7 +74,7 @@
     },
     {
       "blogid": 2,
-      "slug": "/blog/Dwarka-The-Divine-City-of-Lord-Krishna",
+      "slug": "/places/dwarka",
       "blog_link": "/",
       "linktext": "readmore",
       "title": "Dwarka: The Divine City of Lord Krishna",
@@ -83,11 +83,11 @@
       "category": "Cultural",
       "catagory_id": 2,
       "tag_id": 2,
-      "author": "john Dave",
+      "author": "jayesh Dave",
       "title2": "The spiritual and cultural significance of Dwarka",
       "bodytext": "<div><p>Dwarka is one of the Char Dham pilgrimage sites and is believed to be the ancient kingdom of Lord Krishna. The city holds great significance in Hindu mythology and attracts pilgrims from across the world.</p><p>The Dwarkadhish Temple is the main attraction, and its intricate architecture and devotional atmosphere make it a must-visit.</p></div>",
-      "bannerImg": "https://images.unsplash.com/photo-1597824222385-a9673e0b26d2",
-      "subImg": "https://images.unsplash.com/photo-1543428246-1a6795a654c7",
+      "bannerImg": "/assets/images/dwarka.jfif",
+      "subImg": "/assets/images/dwarka.jfif",
       "list": [
         {
           "li": "One of the Char Dhams in Hinduism"
@@ -105,13 +105,13 @@
       "sliderTitle": "The divine city of Dwarka and its spiritual aura",
       "imgs": [
         {
-          "img": "https://images.unsplash.com/photo-1543428246-1a6795a654c7"
+          "img": "/assets/images/dwarka.jfif"
         },
         {
-          "img": "https://images.unsplash.com/photo-1597824222385-a9673e0b26d2"
+          "img": "/assets/images/dwarka.jfif"
         },
         {
-          "img": "https://images.unsplash.com/photo-1568572933382-74d440642117"
+          "img": "/assets/images/dwarka.jfif"
         }
       ],
       "Refrenced": [
@@ -125,7 +125,7 @@
       "reviews": {
         "review": [
           {
-            "img": "https://images.unsplash.com/photo-1543428246-1a6795a654c7",
+            "img": "/assets/images/dwarka.jfif",
             "date": 1709097191,
             "name": "krishna desai",
             "text": "Visiting Dwarka is a spiritual journey like no other. The atmosphere is filled with devotion, and the ancient temples are truly awe-inspiring."
@@ -168,12 +168,12 @@
       {
         "category": "Somnath",
         "catagory_id": 1,
-        "categoryLink": "/Somnath"
+        "categoryLink": "/somnath"
       },
       {
         "category": "Dwarka",
         "catagory_id": 2,
-        "categoryLink": "/Dwarka"
+        "categoryLink": "/dwarka"
       }
     ]
   }

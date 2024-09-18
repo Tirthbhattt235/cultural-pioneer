@@ -75,7 +75,7 @@ export default function Blog() {
         </section>
       </Container>
       <BlogRightSection/>
-      <Ftrswiper/>
+      {/* <Ftrswiper/> */}
       <Footer></Footer>   
             </>
 

@@ -89,7 +89,7 @@ export default function BlogDetails() {
             <BlogDetailsSection blog={blog}></BlogDetailsSection>
 
             : null}
-          <Ftrswiper />
+          {/* <Ftrswiper /> */}
           <Footer></Footer>
         </>
 

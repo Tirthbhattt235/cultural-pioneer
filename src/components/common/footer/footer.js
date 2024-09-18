@@ -158,7 +158,7 @@ function footer() {
                     <h5 className="mb-20">
                       {data.quickLinksFtrtitle
                         ? data.quickLinksFtrtitle
-                        : "Quick Links"}
+                        : "Places"}
                     </h5>
                     {data.quickLinks ? (
                       <ul className="ps-0">

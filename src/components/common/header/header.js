@@ -116,7 +116,7 @@ function header() {
                     id="s"
                     name="s"
                     type="text"
-                    placeholder="Eg 'Printer service'"
+                    placeholder="Eg 'search Destination'"
                     className="text_input"
                   />
 
@@ -143,69 +143,7 @@ function header() {
                     <a onClick={() => handleMouseEnter(5)} href="/places">
                       Popular Places
                     </a>
-                    <div
-                      onMouseLeave={() => handleMouseLeave(5)}
-                      className="struct-submenu "
-                      style={{
-                        display: activeSubMenu === 5 ? "block" : "none",
-                      }}
-                    >
-                      <div className="row g-0 d-flex justify-content-center ">
-                        <div className="service2wrapper  row p-xl-4 p-3 pt-xl-0 g-2">
-                          <div className="serviceitem col-xl-4 col-md-6">
-                            <Image alt="Image"
-                              src={Img2}
-                              className="w-100  object-fit-contain position-relative object-fit-contain  object-fit-fill "
-                              height={300}
-                              width={510}
-                            />
-                            <div className="textwrapper ">
-                              <h4 className="mb-3">Somnath</h4>
-                              <span className="emb-3">
-                                The town of the Lord of the Moon
-                              </span>
-                              <div className="link-wrapper">
-                                <Link href="/places/somnath">Read More</Link>
-                              </div>
-                            </div>
-                          </div>
-                          <div className="serviceitem col-xl-4 col-md-6">
-                            <Image alt="Image"
-                              src={Img2}
-                              className="w-100  object-fit-contain position-relative object-fit-contain  object-fit-fill "
-                              height={300}
-                              width={510}
-                            />
-                            <div className="textwrapper  ">
-                              <h4 className="mb-3">Personlized t-shirts</h4>
-                              <span className=" mb-3">
-                                We Design evrry day Cloths{" "}
-                              </span>
-                              <div className="link-wrapper">
-                                <Link href="#">Shop Now</Link>
-                              </div>
-                            </div>
-                          </div>
-                          <div className="serviceitem col-xl-4 col-md-6">
-                            <Image alt="Image"
-                              src={Img2}
-                              className="w-100  object-fit-contain position-relative object-fit-contain  object-fit-fill "
-                              height={300}
-                              width={510}
-                            />
-                            <div className="textwrapper  ">
-                              <h4 className="mb-3">Personlized t-shirts</h4>
-                              <span className=" mb-3">
-                                We Design evrry day Cloths{" "}
-                              </span>
-                              <div className="link-wrapper">
-                                <Link href="#">Shop Now</Link>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                  
                   </li>
                   <li className="d-xl-block d-none">
                     <Link href="">

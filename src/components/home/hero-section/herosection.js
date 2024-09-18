@@ -8,7 +8,7 @@ import Image from "next/image";
 import { useState, useEffect } from "react";
 import { AnimatePresence, motion, inView, easeIn } from "framer-motion";
 
-import Img1 from "../../../../public/assets/wp-content/uploads/2023/09/Home-3-Slider-1-Tshirt.gif";
+import Img1 from "../../../../public/assets/images/home.jpeg";
 function heroSection() {
   const pagination = {
     clickable: true,
@@ -50,7 +50,7 @@ function heroSection() {
                     <Image alt="Image"
                       alt="Image"
                       src={Img1}
-                      className="w-100 h-100 "
+                      className="w-100 h-100  br-30"
                     ></Image>
                   </div>
                 ) : null}

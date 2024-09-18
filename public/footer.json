@@ -3,26 +3,18 @@
       "contacttext":"24/7 Customer care",
       "contact":"237841829479",
       "emailtext":"Need Live Support",
-      "email":"crayon@gmail.com",
+      "email":"haritage@gmail.com",
       "paymenttext":"Our Payment Mehods",
-      "quicklinksFtrtitle":"Quick Links",
+      "quicklinksFtrtitle":"Places",
       "quickLinks":[    
-                  {"link":"/","linktext":"home"},
-                  {"link":"/","linktext":"home"},
-                  {"link":"/","linktext":"home"},
-                  {"link":"/","linktext":"home"},
-                  {"link":"/","linktext":"home"},
-                  {"link":"/","linktext":"home"}
-
+                  {"link":"/places/somnath","linktext":"somnath"},
+                  {"link":"//places/dwarka","linktext":"dwarka"}
+                 
       ],
-      "ServiceFtrtitle":"service",
+      "ServiceFtrtitle":"events",
       "services":[
-            {"link":"/","linktext":"home"},
-            {"link":"/","linktext":"home"},
-            {"link":"/","linktext":"home"},
-            {"link":"/","linktext":"home"},
-            {"link":"/","linktext":"home"},
-            {"link":"/","linktext":"home"}
+            {"link":"/places/somnath","linktext":"somnath"},
+                  {"link":"//places/dwarka","linktext":"dwarka"}
       ],
       "Ftr4":{"title":"Download Cultural Pioneers","text":"Get exclusive offers, 24/7 Tech Support & feel advantage with Cultural Pioneers App",
 "title2":"Follow us"},
