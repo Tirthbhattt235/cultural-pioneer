@@ -4,7 +4,7 @@ import Section, {
   MainLine,
 } from "./assets/header.style";
 import Image from "next/image";
-import Img from "../../../../public/assets/wp-content/uploads/2023/08/Logo-dark.svg";
+import Img from "../../../../public/assets/svgs/Light-Logo.svg";
 import { useState, useEffect } from "react";
 import HeaderIcon from "../../../../public/header-icon.svg";
 import Img1 from "./assets/imgs/menu21.png";
@@ -34,7 +34,7 @@ function header() {
   const [SubSideNav, ShowSubSideNav] = useState(false);
   const [Childindex, SetChildIndex] = useState(null);
   const [SideNav, ShowSideNav] = useState(false);
-  const [Cart,ShowCart] = useState(false)
+  const [Cart, ShowCart] = useState(false)
   const handleMouseEnter = (index) => {
     // console.log(activeSubMenu)
     setActiveSubMenu(index);
@@ -50,7 +50,7 @@ function header() {
   const closearrow = () => {
     SetIconindex(null);
   };
-  const handleclick = () => {};
+  const handleclick = () => { };
   useEffect(() => {
     if (window.innerWidth >= 1200) {
       SetColMenu(true);
@@ -65,8 +65,8 @@ function header() {
         const response = await fetch("/header-data.json");
         const jsonData = await response.json();
         setData(jsonData);
-        
-       
+
+
       } catch (error) {
         console.error("Error fetching data:", error);
       }
@@ -103,48 +103,11 @@ function header() {
             <div className="element5"></div>
             <div className="element6"></div>
           </Ramboline>
-          <MiddleLine className=" ">
-            <div className="element-container row d-flex pe-xl-4 ps-xl-4 pe-3 ps-3 me-auto ms-auto  justify-content-lg-evenly justify-sm-between justify-content-center   justify-content-sm-between  row g-0">
-              <div className="col-xl-4 col-lg-2 p-0 col-sm-6 sol-12  left-links   line-1 d-flex  justify-content-sm-start justify-content-center  align-items-center">
-                <a href="" className="noneafter">
-                  Review
-                </a>
-
-                <a href="">Support</a>
-              </div>
-              <div className="col-xl-4 col-lg-5 col-6 p-0  line-2 d-none d-lg-flex   justify-content-center">
-                <p>Free Shipping on Orders over $100</p>
-              </div>
-              <div className="col-xl-4 col-lg-5 col-6 p-0  line-3 d-sm-flex d-none  justify-content-end ">
-                <div className=" d-flex flex-row justify-content-center  align-items-center ">
-                  <a
-                    href=""
-                    className="nummber d-md-flex d-none align-items-center"
-                  >
-                    <span className="icon me-2 d-flex  align-items-center p-0 w-auto  ">
-                      
-                    <FontAwesomeIcon icon={faMobileAlt} height={16} width={20}></FontAwesomeIcon>
-                      
-                    
-                    </span>
-                    <span className="tel">0000 - 123 - 456789</span>
-                  </a>
-                  <a href="mailto:info@gmail.com" className="email d-flex  flex-row justify-content-center  align-items-center  ">
-                    <span className="icon me-2 d-flex  align-items-center flex-row   p-0 w-auto">
-                    <FontAwesomeIcon icon={faEnvelope} height={16} width={20} ></FontAwesomeIcon>
-                    </span>
-                    <span className="email">info@example.com</span>
-                  </a>
-                </div>
-                <p></p>
-              </div>
-            </div>
-          </MiddleLine>
           <MainLine className=" headerl==   pe-xl-4 ps-xl-4 pe-3 ps-3 d-flex  align-items-center  overflow-visible  element-container">
             <div className=" div-container header-last element-container w-100   overflow-visible  d-flex justify-content-center me-auto  ms-auto  align-item-center row g-0">
               <div className="d-xl-none d-flex col-8   res-icon">
                 <Link href="">
-                  <Image alt="Image"  src={Img}></Image>
+                  <Image alt="Image" className="header-logo" src={Img}></Image>
                 </Link>
               </div>
               <div className=" col-xl-2  d-xl-flex search-container d-none justify-content-start div-container">
@@ -170,53 +133,15 @@ function header() {
 
               <div className=" col-xl-8 col-12 d-xl-flex d-none  justify-content-center  line-2 div-container">
                 <ul className="mb-0 position-relative p-0  flex-xl-row flex-column ">
-                  <li
-                    className="  -center text-start  justify-content-xl-center justify-content-start align-items-xl-center  align-items-start  "
-                    onMouseEnter={() => handleMouseEnter(0)}
-                    // onMouseLeave={handleMouseLeave}
-                  >
-                    <a
-                      onClick={() => handleMouseEnter(0)}
-                      href=""
-                      className="has-submenu"
-                    >
-                      home
-                    </a>
-
-                    <ul
-                      onMouseLeave={() => handleMouseLeave(0)}
-                      className="simple-submenu"
-                      style={{
-                        display: activeSubMenu === 0 ? "block" : "none",
-                      }}
-                    >
-                      <li>
-                        <Link href="#">Home-1</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-2</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-3</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-4</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-5</Link>
-                      </li>
-                    </ul>
-                  </li>
-
                   <li className=" -center text-start justify-content-xl-center justify-content-start align-items-xl-center  align-items-start  ">
-                    <Link href='/about'>About</Link>
+                    <Link href='/'>Home</Link>
                   </li>
                   <li
                     className=" -center text-start justify-content-xl-center justify-content-start align-items-xl-center  align-items-start  "
                     onMouseEnter={() => handleMouseEnter(5)}
                   >
-                    <a onClick={() => handleMouseEnter(5)} href="">
-                      prinmt
+                    <a onClick={() => handleMouseEnter(5)} href="/places">
+                      Popular Places
                     </a>
                     <div
                       onMouseLeave={() => handleMouseLeave(5)}
@@ -225,47 +150,6 @@ function header() {
                         display: activeSubMenu === 5 ? "block" : "none",
                       }}
                     >
-                      {/* <div className="struct-submenu "> */}
-                      <div className=" line-1">
-                        <div className="servicewrapper p-xl-4 p-3 row g-2 w-100 ">
-                          <div className="serviceitem  col-xl-3 col-md-6 col-lg-4  col-12 col-sm-6 ">
-                            <Image alt="Image"
-                              src={Img1}
-                              className="position-relative h-auto  w-100  object-fit-contain "
-                            />
-                            <div className="link-wrapper">
-                              <Link href="#">Shop Now</Link>
-                            </div>
-                          </div>
-                          <div className="serviceitem  col-xl-3 col-md-6 col-lg-4  col-12 col-sm-6 ">
-                            <Image alt="Image"
-                              src={Img1}
-                              className="position-relative h-auto  w-100  object-fit-contain "
-                            />
-                            <div className="link-wrapper">
-                              <Link href="#">Shop Now</Link>
-                            </div>
-                          </div>
-                          <div className="serviceitem  col-xl-3 col-md-6 col-lg-4  col-12 col-sm-6 ">
-                            <Image alt="Image"
-                              src={Img1}
-                              className="position-relative h-auto  w-100  object-fit-contain "
-                            />
-                            <div className="link-wrapper">
-                              <Link href="#">Shop Now</Link>
-                            </div>
-                          </div>
-                          <div className="serviceitem  col-xl-3 col-md-6 col-lg-4 col-12  col-sm-6 ">
-                            <Image alt="Image"
-                              src={Img1}
-                              className="position-relative h-auto  w-100  object-fit-contain "
-                            />
-                            <div className="link-wrapper">
-                              <Link href="#">Shop Now</Link>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
                       <div className="row g-0 d-flex justify-content-center ">
                         <div className="service2wrapper  row p-xl-4 p-3 pt-xl-0 g-2">
                           <div className="serviceitem col-xl-4 col-md-6">
@@ -276,12 +160,12 @@ function header() {
                               width={510}
                             />
                             <div className="textwrapper ">
-                              <h4 className="mb-3">Personlized t-shirts</h4>
+                              <h4 className="mb-3">Somnath</h4>
                               <span className="emb-3">
-                                We Design evrry day Cloths{" "}
+                                The town of the Lord of the Moon
                               </span>
                               <div className="link-wrapper">
-                                <Link href="#">Shop Now</Link>
+                                <Link href="/places/somnath">Read More</Link>
                               </div>
                             </div>
                           </div>
@@ -325,152 +209,26 @@ function header() {
                   </li>
                   <li className="d-xl-block d-none">
                     <Link href="">
-                      <Image alt="Image"  className="logo" src={Img}></Image>
+                      <Image alt="Image" className="logo header-logo" src={Img}></Image>
                     </Link>
                   </li>
-                  <li
-                    className="position-relative cs  -center text-start justify-content-xl-center justify-content-start align-items-xl-center  align-items-start "
-                    onMouseEnter={() => handleMouseEnter(2)}
-                    // onMouseLeave={handleMouseLeave}
-                  >
-                    <a
-                      onClick={() => handleMouseEnter(2)}
-                      className="has-submenu"
-                    >
-                      Pages
-                    </a>
-                    <ul
-                      onMouseLeave={() => handleMouseLeave()}
-                      className="simple-submenu"
-                      style={{
-                        display: activeSubMenu === 2 ? "block" : "none",
-                      }}
-                    >
-                      <li>
-                        <Link href="#">Home-1</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-2</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-3</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-4</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-5</Link>
-                      </li>
-                    </ul>
+                  <li className=" -center text-start justify-content-xl-center justify-content-start align-items-xl-center  align-items-start  ">
+                    <Link href='/about'>About</Link>
                   </li>
-                  <li
-                    className="position-relative justify-content-xl-center justify-content-start align-items-xl-center  align-items-start  cs  -center text-start"
-                    onMouseEnter={() => handleMouseEnter(1)}
-                    // onMouseLeave={handleMouseLeave}
-                  >
-                    <Link href="/shop"
-                      onClick={() => handleMouseEnter(1)}
-                      className="has-submenu"
-                    >
-                      shop
-                    </Link>
-                    <ul
-                      onMouseLeave={() => handleMouseLeave()}
-                      className="simple-submenu"
-                      style={{
-                        display: activeSubMenu === 1 ? "block" : "none",
-                      }}
-                    >
-                      <li>
-                        <Link href="/shop/">product-detail</Link>
-                      </li>
-                      <li>
-                        <Link href="/shop/cart">cart</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-3</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-4</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-5</Link>
-                      </li>
-                    </ul>
+                  <li className=" -center text-start justify-content-xl-center justify-content-start align-items-xl-center  align-items-start  ">
+                    <Link href='/contact'>Contact Us</Link>
                   </li>
-                  <li
-                    className="position-relative cs  -center text-start justify-content-xl-center justify-content-start align-items-xl-center  align-items-start  "
-                    onMouseEnter={() => handleMouseEnter(3)}
-                    // onMouseLeave={handleMouseLeave}
-                  >
-                    <a
-                      onClick={() => handleMouseEnter(3)}
-                      href="/"
-                      className="has-submenu"
-                    >
-                      bulk orders
-                    </a>
-                    <ul
-                      onMouseLeave={() => handleMouseLeave()}
-                      className="simple-submenu"
-                      style={{
-                        display: activeSubMenu === 3 ? "block" : "none",
-                      }}
-                    >
-                      <li>
-                        <Link href="#">Home-1</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-2</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-3</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-4</Link>
-                      </li>
-                      <li>
-                        <Link href="#">Home-5</Link>
-                      </li>
-                    </ul>
-                  </li>
+
                 </ul>
               </div>
 
               <div className="col-xl-2 col-4 d-flex justify-content-end line-3 div-container">
                 <ul className="mb-0">
                   <li className="d-md-flex d-none justify-content-center  align-items-cener">
-                    <Link href="/">
-                      <i className="bi bi-heart-fill"></i>
-                    </Link>
-                  </li>
-                  <li className="d-md-flex d-none justify-content-center  align-items-cener">
                     <Link href="/authorization">
                       <i className="bi bi-person"></i>
                     </Link>
                   </li>
-                  <li className="d-md-flex d-none justify-content-center  align-items-cener position-relative "
-                    onClick={()=>ShowCart(!Cart)}
-                    onMouseEnter={()=>ShowCart(true)}
->
-                    <Link href="/" onClick={(e)=>{
-                      e.preventDefault()
-                    }}>
-                      <i className="bi bi-cart2"></i>
-                    </Link>
-                    {Cart &&<div className="mini-cart" onMouseLeave={()=>ShowCart(false)} >
-                    <MiniCart   isvisible={Cart} ></MiniCart>
-
-                    </div>}
-                  </li>
-                  <div
-                    className={`menu-icon    }`}
-                    onClick={() => ShowSideNav(true)}
-                  >
-                    <div className="bar"></div>
-                    <div className="bar"></div>
-                    <div className="bar"></div>
-                  </div>
                 </ul>
               </div>
             </div>
@@ -491,15 +249,15 @@ function header() {
                         >
                           <div
                             className="close-button  pt-3 pb-3"
-                            
+
                           >
                             <span>&times;</span>
                           </div>
                         </div>
                         <ul className="d-flex flex-column p-0 ">
-                          {data.map((item, index,keyindex) => (
+                          {data.map((item, index, keyindex) => (
                             <li
-                            key={keyindex}
+                              key={keyindex}
                               className=" list-unstyled d-flex  justify-content-start flex-column   pe-3 ps-3   d-flex flex- justify-content-between "
                               onMouseEnter={(e) => {
                                 handleicon(index);
@@ -516,7 +274,7 @@ function header() {
 
                                 {item.hasChild === true && (
                                   <li className="sidespan -5">
-                                    
+
                                     {Icon === true && Iconindex === index ? (
                                       <FontAwesomeIcon
                                         icon={faArrowRight}
@@ -742,7 +500,7 @@ function header() {
                                         </div>
                                         <ul className=" list-unstyled ">
                                           {data[Childindex].submenuLink.map(
-                                            (subItem, SubItemIndex,keyindex) => (
+                                            (subItem, SubItemIndex, keyindex) => (
                                               <li
                                                 key={SubItemIndex + 2}
                                                 className="pe-3 ps-3 d-flex  justify-content-between "
