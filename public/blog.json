@@ -42,17 +42,7 @@
           "img": "https://images.unsplash.com/photo-1568572933382-74d440642117"
         }
       ],
-      "Refrenced": [
-        {
-          "id": 2
-        },
-        {
-          "id": 3
-        },
-        {
-          "id": 4
-        }
-      ],
+      "Refrenced": [{ "id": 2 }, { "id": 3 }, { "id": 4 }],
       "reviews": {
         "review": [
           {
@@ -114,14 +104,7 @@
           "img": "https://images.unsplash.com/photo-1568572933382-74d440642117"
         }
       ],
-      "Refrenced": [
-        {
-          "id": 3
-        },
-        {
-          "id": 4
-        }
-      ],
+      "Refrenced": [{ "id": 3 }, { "id": 4 }],
       "reviews": {
         "review": [
           {
@@ -129,6 +112,130 @@
             "date": 1709097191,
             "name": "krishna desai",
             "text": "Visiting Dwarka is a spiritual journey like no other. The atmosphere is filled with devotion, and the ancient temples are truly awe-inspiring."
+          }
+        ],
+        "title": "Leave a reply",
+        "text": {
+          "line": "Your email address will not be published.",
+          "line1": " Required fields are marked"
+        },
+        "btnlink": "/",
+        "btntext": "Post comment",
+        "condition": "Save my name, email, and website in this browser for the next time I comment."
+      }
+    },
+    {
+      "blogid": 3,
+      "slug": "/blog/Rani-Ki-Vav-The-Queen's-Stepwell",
+      "blog_link": "/",
+      "linktext": "readmore",
+      "title": "Rani Ki Vav: The Queen's Stepwell",
+      "subtitle": "A UNESCO World Heritage Site",
+      "date": 1406356690,
+      "category": "Heritage",
+      "catagory_id": 1,
+      "tag_id": 3,
+      "author": "john Dave",
+      "title2": "The grandeur of ancient stepwell architecture",
+      "bodytext": "<div><p>Rani Ki Vav, located in Patan, Gujarat, is one of the finest stepwells in India and a UNESCO World Heritage Site. It was built in memory of King Bhimdev I by his widow Queen Udayamati in the 11th century.</p><p>The stepwell is adorned with intricate sculptures of gods and goddesses, representing the Maru-Gurjara architectural style.</p></div>",
+      "bannerImg": "https://images.unsplash.com/photo-1592078611043-f88c8f4a7309",
+      "subImg": "https://images.unsplash.com/photo-1585909836359-36a8f3de2459",
+      "list": [
+        {
+          "li": "A UNESCO World Heritage Site"
+        },
+        {
+          "li": "Built in the 11th century by Queen Udayamati"
+        },
+        {
+          "li": "Famous for its intricate sculptures and architecture"
+        },
+        {
+          "li": "One of the largest stepwells in India"
+        }
+      ],
+      "sliderTitle": "Rani Ki Vav: The architectural wonder of Gujarat",
+      "imgs": [
+        {
+          "img": "https://images.unsplash.com/photo-1585909836359-36a8f3de2459"
+        },
+        {
+          "img": "https://images.unsplash.com/photo-1592078611043-f88c8f4a7309"
+        },
+        {
+          "img": "https://images.unsplash.com/photo-1568572933382-74d440642117"
+        }
+      ],
+      "Refrenced": [{ "id": 4 }, { "id": 5 }],
+      "reviews": {
+        "review": [
+          {
+            "img": "https://images.unsplash.com/photo-1585909836359-36a8f3de2459",
+            "date": 1709097191,
+            "name": "priya shah",
+            "text": "Rani Ki Vav is a masterpiece of architecture. The carvings and historical significance make it a must-visit for anyone interested in ancient history."
+          }
+        ],
+        "title": "Leave a reply",
+        "text": {
+          "line": "Your email address will not be published.",
+          "line1": " Required fields are marked"
+        },
+        "btnlink": "/",
+        "btntext": "Post comment",
+        "condition": "Save my name, email, and website in this browser for the next time I comment."
+      }
+    },
+    {
+      "blogid": 4,
+      "slug": "/blog/Statue-Of-Unity-The-Tallest-Statue-in-The-World",
+      "blog_link": "/",
+      "linktext": "readmore",
+      "title": "Statue Of Unity: The Tallest Statue in The World",
+      "subtitle": "A tribute to Sardar Vallabhbhai Patel",
+      "date": 1406356690,
+      "category": "Modern Heritage",
+      "catagory_id": 4,
+      "tag_id": 4,
+      "author": "john Dave",
+      "title2": "The engineering marvel of the Statue of Unity",
+      "bodytext": "<div><p>The Statue of Unity, standing at a height of 182 meters, is the tallest statue in the world. It is dedicated to Sardar Vallabhbhai Patel, the Iron Man of India, and symbolizes the unity of India.</p><p>The statue is located on the Narmada River and is surrounded by beautiful landscapes, offering a magnificent view.</p></div>",
+      "bannerImg": "https://images.unsplash.com/photo-1606372017881-b6d5c847b5c1",
+      "subImg": "https://images.unsplash.com/photo-1600854077569-dcad5c5ef1d9",
+      "list": [
+        {
+          "li": "The tallest statue in the world at 182 meters"
+        },
+        {
+          "li": "Dedicated to Sardar Vallabhbhai Patel"
+        },
+        {
+          "li": "Located on the banks of the Narmada River"
+        },
+        {
+          "li": "A symbol of unity and national pride"
+        }
+      ],
+      "sliderTitle": "The engineering marvel that is the Statue of Unity",
+      "imgs": [
+        {
+          "img": "https://images.unsplash.com/photo-1600854077569-dcad5c5ef1d9"
+        },
+        {
+          "img": "https://images.unsplash.com/photo-1606372017881-b6d5c847b5c1"
+        },
+        {
+          "img": "https://images.unsplash.com/photo-1568572933382-74d440642117"
+        }
+      ],
+      "Refrenced": [{ "id": 5 }, { "id": 6 }],
+      "reviews": {
+        "review": [
+          {
+            "img": "https://images.unsplash.com/photo-1606372017881-b6d5c847b5c1",
+            "date": 1709097191,
+            "name": "amit bhatt",
+            "text": "The Statue of Unity is a sight to behold. The sheer scale and craftsmanship make it one of the most iconic landmarks in India. A must-visit for everyone."
           }
         ],
         "title": "Leave a reply",
@@ -156,9 +263,9 @@
         "categoryLink": "/Cultural"
       },
       {
-        "category": "Spiritual",
-        "catagory_id": 3,
-        "categoryLink": "/Spiritual"
+        "category": "Modern Heritage",
+        "catagory_id": 4,
+        "categoryLink": "/Modern-Heritage"
       }
     ]
   },
@@ -166,14 +273,19 @@
     "title": "Tags",
     "Tags": [
       {
-        "category": "Somnath",
+        "category": "Heritage",
         "catagory_id": 1,
-        "categoryLink": "/Somnath"
+        "categoryLink": "/Heritage"
       },
       {
-        "category": "Dwarka",
+        "category": "Cultural",
         "catagory_id": 2,
-        "categoryLink": "/Dwarka"
+        "categoryLink": "/Cultural"
+      },
+      {
+        "category": "Modern Heritage",
+        "catagory_id": 4,
+        "categoryLink": "/Modern-Heritage"
       }
     ]
   }
